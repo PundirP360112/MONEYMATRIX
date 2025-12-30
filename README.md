@@ -80,8 +80,7 @@ Passwords are **never** stored in plain text.
 * **Compiler:** GCC (MinGW) or any standard C compiler.
 
 ### Step 1: Clone the Repository
-bash
-git clone [https://github.com/your-username/moneymatrix.git](https://github.com/your-username/moneymatrix.git)
+git clone [https://github.com/your-username/moneymatrix.git](https://github.com/PundirP360112/MONEYMATRIX)
 cd moneymatrix
 
 Step 2: Compile
@@ -94,15 +93,7 @@ Step 3: Run
 🔑 Default Admin Credentials
 
 Username: admin
+
 Password: admin123
 
-📂 Project Structure
-Plaintext
-
-MoneyMatrix/
-│
-├── main.c              # Core Application Logic (UI, BST, File I/O)
-├── accounts.txt        # User Database (Auto-generated)
-├── transactions.txt    # Transaction Logs (Auto-generated)
-└── README.md           # Documentation
 
