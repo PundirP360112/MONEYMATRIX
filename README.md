@@ -79,14 +79,19 @@ Passwords are **never** stored in plain text.
 * **OS:** Windows (Required for UI libraries).
 * **Compiler:** GCC (MinGW) or any standard C compiler.
 
-### Step 1: Clone the Repository
+
+Step 1: Clone the Repository
+
 git clone [https://github.com/your-username/moneymatrix.git](https://github.com/PundirP360112/MONEYMATRIX)
+
 cd moneymatrix
 
 Step 2: Compile
+
 gcc main.c -o moneymatrix
 
 Step 3: Run
+
 ./moneymatrix
 
 
